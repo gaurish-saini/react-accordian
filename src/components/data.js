@@ -1,4 +1,4 @@
-export const data = [
+export const Data = [
   {
     header: "Accordion Item #1",
     content: "Content for item 1",
